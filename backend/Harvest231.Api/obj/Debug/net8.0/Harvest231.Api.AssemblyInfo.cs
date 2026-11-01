@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Harvest231.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+475ffe04b744c1e928af8b8e4d69d4284b8f6c98")]
 [assembly: System.Reflection.AssemblyProductAttribute("Harvest231.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Harvest231.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
