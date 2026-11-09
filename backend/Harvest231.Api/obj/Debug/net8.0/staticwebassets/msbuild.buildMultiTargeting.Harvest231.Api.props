@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Harvest231.Api.props" />
-</Project>
