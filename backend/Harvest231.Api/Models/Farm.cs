@@ -16,4 +16,9 @@ public class Farm{
 
     [Range(0.01, 100000)]
     public double SizeHectares { get; set; }
+
+    [Required]
+    public string OwnerId { get; set; } = string.Empty;
+
+    public ApplicationUser Owner { get; set; } = null!;
 }
